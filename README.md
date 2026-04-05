@@ -23,9 +23,12 @@ A list of the best Material I found on the web
 - Jakub Kozera
 - Felipe Gavilan
 - Ervis Trupja
+- Gill Cleeren
+- Thomas Claudius Huber
 - Ivan Lourenço Gomes
 - Junior Matlou
 - Frank Liu
+- Alex Wolf
 
 ## Books
 - [forcoder.net](https://forcoder.net/)
