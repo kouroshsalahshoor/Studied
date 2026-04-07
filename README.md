@@ -3,6 +3,7 @@ A list of the best Material I found on the web
 
 ## Mehmet Özkaya
 - [Udemy - .NET 8 Microservices DDD, CQRS, VerticalClean Architecture](https://www.bilibili.com/video/BV1LUMVziEME?spm_id_from=333.788.videopod.episodes)
+- [Udemy - Design Microservices Architecture with Patterns & Principles](https://www.bilibili.com/video/BV1wSZsYfEHq?spm_id_from=333.788.player.switch)
 - Agentic AI Architectures with Patterns, Frameworks and MCP
 - https://mehmetozkaya.medium.com/
 
