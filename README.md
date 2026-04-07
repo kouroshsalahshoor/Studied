@@ -44,7 +44,6 @@ A list of the best Material I found on the web
 - https://p30download.ir/
 - https://downloadly.ir
 - https://p30download.ir/
-- downloadlynet
 - git.ir
 
 ## Bilibili downloader
