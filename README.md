@@ -11,7 +11,6 @@ A list of the best Material I found on the web
 - [Netcode-Hub](https://www.youtube.com/@Netcode-Hub/featured)
 - [https://www.youtube.com/watch?v=wTJ-Pd-cHds&list=PLaR3RrvBxlc21kp7BmrBqDQ7xSZjx3p_-](https://www.youtube.com/@AyzProgramming/playlists)
 - Steven Sanderson
-- 
 
 ## Learning
 - [udemy](https://www.udemy.com/)
