@@ -11,6 +11,9 @@ A list of the best Material I found on the web
 ## Behavior-Driven Development
 [https://www.bilibili.com/video/BV1dv411z7nZ?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893](https://www.bilibili.com/video/BV1dv411z7nZ?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893)
 
+## Scrum
+[https://www.bilibili.com/video/BV15phEzuEMv/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893](https://www.bilibili.com/video/BV15phEzuEMv/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
+
 ## youtube
 - [Netcode-Hub](https://www.youtube.com/@Netcode-Hub/featured)
 - [https://www.youtube.com/watch?v=wTJ-Pd-cHds&list=PLaR3RrvBxlc21kp7BmrBqDQ7xSZjx3p_-](https://www.youtube.com/@AyzProgramming/playlists)
