@@ -1,7 +1,7 @@
 # Studied
 A list of the best Material I found on the web
 
-## Mehmet Özkaya
+## Mehmet Ozkaya
 - [Udemy - .NET Aspire and GenAI for Developing Distributed Architectures](https://www.bilibili.com/video/BV1FotszbEpv/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 - [Udemy - .NET 8 Microservices DDD, CQRS, VerticalClean Architecture](https://www.bilibili.com/video/BV1LUMVziEME?spm_id_from=333.788.videopod.episodes)
 - [Udemy - Design Microservices Architecture with Patterns & Principles](https://www.bilibili.com/video/BV1wSZsYfEHq?spm_id_from=333.788.player.switch)
@@ -28,7 +28,7 @@ A list of the best Material I found on the web
   
 ## Authors
 - Kevin Dockx
-- Mehmet Özkaya [github](https://github.com/mehmetozkaya) [udemy](https://www.udemy.com/user/ff0e5c8c-dd71-443e-be0a-e73ba821f7d7/)
+- Mehmet Ozkaya [github](https://github.com/mehmetozkaya) [udemy](https://www.udemy.com/user/ff0e5c8c-dd71-443e-be0a-e73ba821f7d7/)
 - Neil Cummings
 - Jakub Kozera
 - Felipe Gavilan
