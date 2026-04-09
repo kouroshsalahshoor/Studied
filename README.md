@@ -28,7 +28,7 @@ A list of the best Material I found on the web
   
 ## Authors
 - Kevin Dockx
-- Mehmet Özkaya
+- Mehmet Özkaya [github](https://github.com/mehmetozkaya) [udemy](https://www.udemy.com/user/ff0e5c8c-dd71-443e-be0a-e73ba821f7d7/)
 - Neil Cummings
 - Jakub Kozera
 - Felipe Gavilan
