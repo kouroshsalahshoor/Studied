@@ -58,3 +58,6 @@ A list of the best Material I found on the web
 ## Bilibili downloader
 - [hellotik](https://www.hellotik.app/en/bilibili)
 - [snapany](https://snapany.com/bilibili)
+
+## Technical solutions / good links
+- [How to Remote Debug ASP.NET Core Applications in Azure from Visual Studio](https://andrewhalil.com/2025/01/30/how-to-remote-debug-asp-net-core-applications-in-azure-from-visual-studio/)
