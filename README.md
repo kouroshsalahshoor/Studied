@@ -9,7 +9,7 @@ A list of the best Material I found on the web
 - https://mehmetozkaya.medium.com/
 
 ## Behavior-Driven Development
-- [https://www.bilibili.com/video/BV1dv411z7nZ?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893&p=16](https://www.bilibili.com/video/BV1dv411z7nZ?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893&p=16)
+- [Getting started with Behavior Driven Development (BDD) in .NET using SpecFlow](https://www.youtube.com/watch?v=EEeVU0z26u0)
   ### Specflow
   - [SpecFlowBDD](https://www.youtube.com/@SpecFlowBDD/playlists)
 
