@@ -5,6 +5,7 @@ A list of the best Material I found on the web
 - [Udemy - .NET Aspire and GenAI for Developing Distributed Architectures](https://www.bilibili.com/video/BV1FotszbEpv/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 - [Udemy - .NET 8 Microservices DDD, CQRS, VerticalClean Architecture](https://www.bilibili.com/video/BV1LUMVziEME?spm_id_from=333.788.videopod.episodes)
 - [Udemy - Design Microservices Architecture with Patterns & Principles](https://www.bilibili.com/video/BV1wSZsYfEHq?spm_id_from=333.788.player.switch)
+- [Udemy - Cloud-Native Microservices, Kubernetes, Service Mesh, CICD](https://www.bilibili.com/video/BV1EhNezZECf/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 - Agentic AI Architectures with Patterns, Frameworks and MCP
 - https://mehmetozkaya.medium.com/
 
