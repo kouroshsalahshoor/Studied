@@ -7,6 +7,7 @@ A list of the best Material I found on the web
 - [Udemy - Design Microservices Architecture with Patterns & Principles](https://www.bilibili.com/video/BV1wSZsYfEHq?spm_id_from=333.788.player.switch)
 - [Udemy - Cloud-Native Microservices, Kubernetes, Service Mesh, CICD](https://www.bilibili.com/video/BV1EhNezZECf/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
   - [reference project](https://www.bilibili.com/video/BV1EhNezZECf?spm_id_from=333.788.player.switch&vd_source=396d99df17169e23716a53b0fa85b893&p=36)
+  - [hands-on](https://www.bilibili.com/video/BV1EhNezZECf?spm_id_from=333.788.player.switch&vd_source=396d99df17169e23716a53b0fa85b893&p=38)
 - Agentic AI Architectures with Patterns, Frameworks and MCP
 - https://mehmetozkaya.medium.com/
 
