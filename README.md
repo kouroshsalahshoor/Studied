@@ -7,13 +7,16 @@ A list of the best Material I found on the web
   - [part2](https://www.bilibili.com/video/BV1h5MVzfEoQ?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part3](https://www.bilibili.com/video/BV1g56zYMECm/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part4](https://www.bilibili.com/video/BV1YgMVzaEzc/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
-- [Udemy - .NET Aspire and GenAI for Developing Distributed Architectures](https://www.bilibili.com/video/BV1FotszbEpv/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
-- [Generative AI Architectures with LLM, Prompt, RAG, Vector DB | Udemy](https://learningdl.net/generative-ai-architectures-with-llm-prompt-rag-vector-db/)
+
 - [Udemy - Design Microservices Architecture with Patterns & Principles](https://www.bilibili.com/video/BV1wSZsYfEHq?spm_id_from=333.788.player.switch)
 - [Udemy - Cloud-Native Microservices, Kubernetes, Service Mesh, CICD](https://www.bilibili.com/video/BV1EhNezZECf/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part 2](https://www.bilibili.com/video/BV1PAMgz6EE2/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part 3](https://www.bilibili.com/video/BV1pWNezYE1X/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part 4](https://www.bilibili.com/video/BV1PAMgz6Ep1/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
+  - [part 5](https://www.bilibili.com/video/BV1ToMuzyExb/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
+ 
+- [Udemy - .NET Aspire and GenAI for Developing Distributed Architectures](https://www.bilibili.com/video/BV1FotszbEpv/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
+- [Generative AI Architectures with LLM, Prompt, RAG, Vector DB | Udemy](https://learningdl.net/generative-ai-architectures-with-llm-prompt-rag-vector-db/)
 - [GenAI for .NET: Build LLM Apps with OpenAI and Ollama | Udemy](https://learningdl.net/genai-for-dotnet-build-llm-apps-with-openai-and-ollama/#more-870166)
 - Agentic AI Architectures with Patterns, Frameworks and MCP
 - https://mehmetozkaya.medium.com/
