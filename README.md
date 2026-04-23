@@ -1,7 +1,7 @@
 # Studied
 A list of the best Material I found on the web
 
-## Mehmet Ozkaya [github](https://github.com/mehmetozkaya) [udemy](https://www.udemy.com/user/ff0e5c8c-dd71-443e-be0a-e73ba821f7d7/)
+##  [Mehmet Ozkaya](https://www.udemy.com/user/ff0e5c8c-dd71-443e-be0a-e73ba821f7d7/) | [github](https://github.com/mehmetozkaya)
 
 - [x] [Udemy - .NET 8 Microservices DDD, CQRS, VerticalClean Architecture](https://www.bilibili.com/video/BV1LUMVziEME?spm_id_from=333.788.videopod.episodes) | [github](https://github.com/mehmetozkaya/EShopMicroservices-Udemy-Sections)
   - [part2](https://www.bilibili.com/video/BV1h5MVzfEoQ?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893)
@@ -22,6 +22,10 @@ A list of the best Material I found on the web
 - [GenAI for .NET: Build LLM Apps with OpenAI and Ollama | Udemy](https://learningdl.net/genai-for-dotnet-build-llm-apps-with-openai-and-ollama/#more-870166)
 - Agentic AI Architectures with Patterns, Frameworks and MCP
 - https://mehmetozkaya.medium.com/
+
+## [Trevoir Williams](https://www.udemy.com/user/trevoirwilliams/?kw=trevor&src=sac)
+- [Udemy – Generative AI for .NET Developers with Azure AI Services](https://www.bilibili.com/video/BV1C5qdYhEd8/?spm_id_from=333.337.search-card.all.click)
+
 
 ## Behavior-Driven Development
 - [Getting started with Behavior Driven Development (BDD) in .NET using SpecFlow](https://www.youtube.com/watch?v=EEeVU0z26u0)
