@@ -71,7 +71,7 @@ A list of the best Material I found on the web
 - [learningdl.net](https://learningdl.net/)
 - [coderprog](https://coderprog.com/)
 - [download.ir](https://download.ir/)
-- [https://sanet.st/](https://sanet.st/)
+- [softarchive](https://sanet.st/)
 - https://downloadlynet.ir/
 - https://p30download.ir/
 - https://downloadly.ir
