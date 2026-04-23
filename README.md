@@ -26,6 +26,9 @@ A list of the best Material I found on the web
 ## [Trevoir Williams](https://www.udemy.com/user/trevoirwilliams/?kw=trevor&src=sac)
 - [Udemy – Generative AI for .NET Developers with Azure AI Services](https://www.bilibili.com/video/BV1C5qdYhEd8/?spm_id_from=333.337.search-card.all.click)
 
+## Jakub Kozera
+- [Udemy - ASP.NET Core 8 Web API Clean architecture + Azure services](https://www.bilibili.com/video/BV118iUY5EX4/?spm_id_from=333.337.search-card.all.click)
+  - [part 2](https://www.bilibili.com/video/BV1N8iUY5ESR/?spm_id_from=333.337.search-card.all.click) 
 
 ## Behavior-Driven Development
 - [Getting started with Behavior Driven Development (BDD) in .NET using SpecFlow](https://www.youtube.com/watch?v=EEeVU0z26u0)
@@ -48,7 +51,6 @@ A list of the best Material I found on the web
 ## Authors
 - Kevin Dockx
 - Neil Cummings
-- Jakub Kozera
 - Trevoir Williams
 - Felipe Gavilan
 - Ervis Trupja
