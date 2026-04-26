@@ -7,6 +7,10 @@ A list of the best Material I found on the web
   - [part2](https://www.bilibili.com/video/BV1h5MVzfEoQ?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part3](https://www.bilibili.com/video/BV1g56zYMECm/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part4](https://www.bilibili.com/video/BV1YgMVzaEzc/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
+     
+- [ ] [Udemy - Design Microservices Architecture with Patterns & Principles](https://www.bilibili.com/video/BV1JpbcztE7h/?spm_id_from=333.337.search-card.all.click)
+  - [part 2](https://www.bilibili.com/video/BV1wSZsYfELg/?spm_id_from=333.337.search-card.all.click)
+  - [part 3](https://www.bilibili.com/video/BV1wSZsYfELb/?spm_id_from=333.337.search-card.all.click)
 
 - [x] [GenAI for .NET: Build LLM Apps with OpenAI and Ollama](https://sanet.st/video-courses/developer/5291366-genai-net-build-llm-apps-openai-ollama) | [github](https://github.com/mehmetozkaya/genai-for-dotnet)
 
