@@ -12,9 +12,9 @@ A list of the best Material I found on the web
   - [part 2](https://www.bilibili.com/video/BV1wSZsYfELg/?spm_id_from=333.337.search-card.all.click)
   - [part 3](https://www.bilibili.com/video/BV1wSZsYfELb/?spm_id_from=333.337.search-card.all.click)
 
+- [x] [Generative AI Architectures with LLM, Prompt, RAG, Vector DB](https://learningdl.net/generative-ai-architectures-with-llm-prompt-rag-vector-db/)
 - [x] [GenAI for .NET: Build LLM Apps with OpenAI and Ollama](https://sanet.st/video-courses/developer/5291366-genai-net-build-llm-apps-openai-ollama) | [github](https://github.com/mehmetozkaya/genai-for-dotnet)
 
-- [Udemy - Design Microservices Architecture with Patterns & Principles](https://www.bilibili.com/video/BV1wSZsYfEHq?spm_id_from=333.788.player.switch)
 - [Udemy - Cloud-Native Microservices, Kubernetes, Service Mesh, CICD](https://www.bilibili.com/video/BV1EhNezZECf/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part 2](https://www.bilibili.com/video/BV1PAMgz6EE2/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part 3](https://www.bilibili.com/video/BV1pWNezYE1X/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
@@ -24,7 +24,7 @@ A list of the best Material I found on the web
 - [Udemy - .NET Aspire and GenAI for Developing Distributed Architectures](https://www.bilibili.com/video/BV1FotszbEpv/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 - [Generative AI Architectures with LLM, Prompt, RAG, Vector DB | Udemy](https://learningdl.net/generative-ai-architectures-with-llm-prompt-rag-vector-db/)
 - [GenAI for .NET: Build LLM Apps with OpenAI and Ollama | Udemy](https://learningdl.net/genai-for-dotnet-build-llm-apps-with-openai-and-ollama/#more-870166)
-- Agentic AI Architectures with Patterns, Frameworks and MCP
+
 - https://mehmetozkaya.medium.com/
 
 ## [Trevoir Williams](https://www.udemy.com/user/trevoirwilliams/?kw=trevor&src=sac)
