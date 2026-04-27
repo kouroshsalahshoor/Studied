@@ -29,6 +29,7 @@ A list of the best Material I found on the web
 
 ## [Thomas Claudius Huber](https://www.pluralsight.com/authors/thomas-huber)
 - [Test Driven Development in C#](https://www.bilibili.com/video/BV17p4y1y73L/?spm_id_from=333.337.search-card.all.click)
+- [Pluralsight - Building a Data-driven ASP.NET Core Application with EF Core](https://www.bilibili.com/video/BV17fTLzCEVF/?spm_id_from=333.337.search-card.all.click)
 
 ## [Mosh Hamedani](https://www.udemy.com/user/moshfeghhamedani/)
 
