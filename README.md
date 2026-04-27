@@ -30,6 +30,8 @@ A list of the best Material I found on the web
 ## [Thomas Claudius Huber](https://www.pluralsight.com/authors/thomas-huber)
 - [Test Driven Development in C#](https://www.bilibili.com/video/BV17p4y1y73L/?spm_id_from=333.337.search-card.all.click)
 
+## [Mosh Hamedani](https://www.udemy.com/user/moshfeghhamedani/)
+
 ## [Trevoir Williams](https://www.udemy.com/user/trevoirwilliams/?kw=trevor&src=sac)
 - [Udemy – Generative AI for .NET Developers with Azure AI Services](https://www.bilibili.com/video/BV1C5qdYhEd8/?spm_id_from=333.337.search-card.all.click)
 
