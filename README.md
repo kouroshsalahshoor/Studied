@@ -27,6 +27,9 @@ A list of the best Material I found on the web
 
 - https://mehmetozkaya.medium.com/
 
+## [Thomas Claudius Huber](https://www.pluralsight.com/authors/thomas-huber)
+- [Test Driven Development in C#](https://www.bilibili.com/video/BV17p4y1y73L/?spm_id_from=333.337.search-card.all.click)
+
 ## [Trevoir Williams](https://www.udemy.com/user/trevoirwilliams/?kw=trevor&src=sac)
 - [Udemy – Generative AI for .NET Developers with Azure AI Services](https://www.bilibili.com/video/BV1C5qdYhEd8/?spm_id_from=333.337.search-card.all.click)
 
@@ -62,7 +65,6 @@ A list of the best Material I found on the web
 - Felipe Gavilan
 - Ervis Trupja
 - Gill Cleeren
-- Thomas Claudius Huber
 - Roland Guijt
 - Ivan Lourenço Gomes
 - Junior Matlou
