@@ -27,6 +27,9 @@ A list of the best Material I found on the web
 
 - https://mehmetozkaya.medium.com/
 
+## [Felipe Gavilan](https://www.udemy.com/user/felipegaviln/)
+- [Artificial Intelligence and Agents in .NET](https://www.bilibili.com/video/BV1Z1G46zENt?spm_id_from=333.788.player.switch&vd_source=396d99df17169e23716a53b0fa85b893&p=10)
+
 ## [Thomas Claudius Huber](https://www.pluralsight.com/authors/thomas-huber)
 - [Test Driven Development in C#](https://www.bilibili.com/video/BV17p4y1y73L/?spm_id_from=333.337.search-card.all.click)
 - [Pluralsight - Building a Data-driven ASP.NET Core Application with EF Core](https://www.bilibili.com/video/BV17fTLzCEVF/?spm_id_from=333.337.search-card.all.click)
@@ -65,7 +68,6 @@ A list of the best Material I found on the web
 - Kevin Dockx
 - Neil Cummings
 - Trevoir Williams
-- Felipe Gavilan
 - Ervis Trupja
 - Gill Cleeren
 - Roland Guijt
