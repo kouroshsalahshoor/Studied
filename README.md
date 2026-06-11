@@ -27,6 +27,9 @@ A list of the best Material I found on the web
 
 - https://mehmetozkaya.medium.com/
 
+## [James Spurin](https://www.udemy.com/user/james-spurin/)
+- [Kubernetes Certified (KCNA) + Hands On Labs + Quizzes](https://www.udemy.com/course/dive-into-cloud-native-containers-kubernetes-and-the-kcna/?couponCode=KEEPLEARNING)
+
 ## [Felipe Gavilan](https://www.udemy.com/user/felipegaviln/)
 - [Artificial Intelligence and Agents in .NET](https://www.bilibili.com/video/BV1Z1G46zENt?spm_id_from=333.788.player.switch&vd_source=396d99df17169e23716a53b0fa85b893&p=10)
 
