@@ -2,7 +2,6 @@
 A list of the best Material I found on the web
 
 ##  [Mehmet Ozkaya](https://www.udemy.com/user/ff0e5c8c-dd71-443e-be0a-e73ba821f7d7/) | [github](https://github.com/mehmetozkaya)
-- [Agentic AI Architectures with Patterns, Frameworks and MCP](https://learningdl.net/agentic-ai-architectures-with-patterns-frameworks-and-mcp/)
 - [Udemy - .NET 8 Microservices DDD, CQRS, VerticalClean Architecture](https://www.bilibili.com/video/BV1LUMVziEME?spm_id_from=333.788.videopod.episodes) | [github](https://github.com/mehmetozkaya/EShopMicroservices-Udemy-Sections)
   - [part2](https://www.bilibili.com/video/BV1h5MVzfEoQ?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part3](https://www.bilibili.com/video/BV1g56zYMECm/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
@@ -20,7 +19,8 @@ A list of the best Material I found on the web
   - [part 3](https://www.bilibili.com/video/BV1pWNezYE1X/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part 4](https://www.bilibili.com/video/BV1PAMgz6Ep1/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part 5](https://www.bilibili.com/video/BV1ToMuzyExb/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
- 
+
+- [Agentic AI Architectures with Patterns, Frameworks and MCP](https://learningdl.net/agentic-ai-architectures-with-patterns-frameworks-and-mcp/)
 - [Udemy - .NET Aspire and GenAI for Developing Distributed Architectures](https://www.bilibili.com/video/BV1FotszbEpv/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 - [Generative AI Architectures with LLM, Prompt, RAG, Vector DB | Udemy](https://learningdl.net/generative-ai-architectures-with-llm-prompt-rag-vector-db/)
 - [GenAI for .NET: Build LLM Apps with OpenAI and Ollama | Udemy](https://learningdl.net/genai-for-dotnet-build-llm-apps-with-openai-and-ollama/#more-870166)
