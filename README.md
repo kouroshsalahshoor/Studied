@@ -20,6 +20,9 @@ A list of the best Material I found on the web
   - [part 4](https://www.bilibili.com/video/BV1PAMgz6Ep1/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part 5](https://www.bilibili.com/video/BV1ToMuzyExb/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 
+- [Udemy - Deploying .Net Microservices with K8s, AKS and Azure DevOps](https://www.bilibili.com/video/BV1bB1NYHESy?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893)
+  - [part2](https://www.bilibili.com/video/BV1bB1NYHEdm/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
+
 - [Agentic AI Architectures with Patterns, Frameworks and MCP](https://learningdl.net/agentic-ai-architectures-with-patterns-frameworks-and-mcp/)
 - [Udemy - .NET Aspire and GenAI for Developing Distributed Architectures](https://www.bilibili.com/video/BV1FotszbEpv/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 - [Generative AI Architectures with LLM, Prompt, RAG, Vector DB | Udemy](https://learningdl.net/generative-ai-architectures-with-llm-prompt-rag-vector-db/)
