@@ -30,6 +30,9 @@ A list of the best Material I found on the web
 
 - https://mehmetozkaya.medium.com/
 
+## [Neil Cummings](https://www.udemy.com/user/neil-cummings-2/)
+- [Build a complete distributed app using .Net Aspire](https://www.bilibili.com/video/BV1qYy1BYEMA?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893)
+
 ## [James Spurin](https://www.udemy.com/user/james-spurin/)
 - [Kubernetes Certified (KCNA) + Hands On Labs + Quizzes](https://www.udemy.com/course/dive-into-cloud-native-containers-kubernetes-and-the-kcna/?couponCode=KEEPLEARNING)
 
@@ -72,7 +75,6 @@ A list of the best Material I found on the web
   
 ## Authors
 - Kevin Dockx
-- Neil Cummings
 - Trevoir Williams
 - Ervis Trupja
 - Gill Cleeren
