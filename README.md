@@ -28,6 +28,10 @@ A list of the best Material I found on the web
 - [Generative AI Architectures with LLM, Prompt, RAG, Vector DB | Udemy](https://learningdl.net/generative-ai-architectures-with-llm-prompt-rag-vector-db/)
 - [GenAI for .NET: Build LLM Apps with OpenAI and Ollama | Udemy](https://learningdl.net/genai-for-dotnet-build-llm-apps-with-openai-and-ollama/#more-870166)
 
+GRPC
+- [Using gRPC in Microservices Communication](https://www.bilibili.com/video/BV1yA4m1P7dJ/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
+
+
 - https://mehmetozkaya.medium.com/
 
 ## [Neil Cummings](https://www.udemy.com/user/neil-cummings-2/)
