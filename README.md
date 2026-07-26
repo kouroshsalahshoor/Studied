@@ -40,6 +40,10 @@ GRPC
 ## Laurentiu Dumitrescu
 - [.NET 9 Microservices, Modular Monolith: DDD & Vertical Slice](https://www.bilibili.com/video/BV1D8UEBsEjc/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 
+## Ali Gelenler
+- [Microservices: Clean Architecture, DDD, SAGA, Outbox & Kafka](https://www.bilibili.com/video/BV1foFNeuEyF/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
+  - [part 2](https://www.bilibili.com/video/BV1foFNeuECo/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
+
 ## [James Spurin](https://www.udemy.com/user/james-spurin/)
 - [Kubernetes Certified (KCNA) + Hands On Labs + Quizzes](https://www.udemy.com/course/dive-into-cloud-native-containers-kubernetes-and-the-kcna/?couponCode=KEEPLEARNING)
 
