@@ -37,6 +37,9 @@ GRPC
 ## [Neil Cummings](https://www.udemy.com/user/neil-cummings-2/)
 - [Build a complete distributed app using .Net Aspire](https://www.bilibili.com/video/BV1qYy1BYEMA?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893)
 
+## Laurentiu Dumitrescu
+- [.NET 9 Microservices, Modular Monolith: DDD & Vertical Slice](https://www.bilibili.com/video/BV1D8UEBsEjc/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
+
 ## [James Spurin](https://www.udemy.com/user/james-spurin/)
 - [Kubernetes Certified (KCNA) + Hands On Labs + Quizzes](https://www.udemy.com/course/dive-into-cloud-native-containers-kubernetes-and-the-kcna/?couponCode=KEEPLEARNING)
 
