@@ -18,7 +18,6 @@ A list of the best Material I found on the web
   - [part 2](https://www.bilibili.com/video/BV1PAMgz6EE2/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part 3](https://www.bilibili.com/video/BV1pWNezYE1X/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part 4](https://www.bilibili.com/video/BV1PAMgz6Ep1/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
-  - [part 5](https://www.bilibili.com/video/BV1ToMuzyExb/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 
 - [Udemy - Deploying .Net Microservices with K8s, AKS and Azure DevOps](https://www.bilibili.com/video/BV1bB1NYHESy?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part2](https://www.bilibili.com/video/BV1bB1NYHEdm/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
