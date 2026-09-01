@@ -2,6 +2,9 @@
 A list of the best Material I found on the web
 
 ##  [Mehmet Ozkaya](https://www.udemy.com/user/ff0e5c8c-dd71-443e-be0a-e73ba821f7d7/) | [github](https://github.com/mehmetozkaya)
+- [Udemy - Agentic Coding with GitHub Copilot: Skills, Agents and MCP](https://www.bilibili.com/video/BV1HF8K6aENh/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
+  
+  
 - [Udemy - .NET 8 Microservices DDD, CQRS, VerticalClean Architecture](https://www.bilibili.com/video/BV1LUMVziEME?spm_id_from=333.788.videopod.episodes) | [github](https://github.com/mehmetozkaya/EShopMicroservices-Udemy-Sections)
   - [part2](https://www.bilibili.com/video/BV1h5MVzfEoQ?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part3](https://www.bilibili.com/video/BV1g56zYMECm/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
