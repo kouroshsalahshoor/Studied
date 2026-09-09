@@ -51,6 +51,8 @@ GRPC
 
 ## [Felipe Gavilan](https://www.udemy.com/user/felipegaviln/)
 - [Artificial Intelligence and Agents in .NET](https://www.bilibili.com/video/BV1Z1G46zENt?spm_id_from=333.788.player.switch&vd_source=396d99df17169e23716a53b0fa85b893&p=10)
+- [Udemy Programming in Blazor – ASP.NET Core 5](https://p30download.ir/fa/entry/97142/udemy-programming-in-blazor-aspnet-core-5)
+- [Udemy Programming in Blazor ASP.NET Core 3.1](https://p30download.ir/fa/entry/90990/udemy-programming-in-blazor-aspnet-core-31)
 
 ## [Thomas Claudius Huber](https://www.pluralsight.com/authors/thomas-huber)
 - [Test Driven Development in C#](https://www.bilibili.com/video/BV17p4y1y73L/?spm_id_from=333.337.search-card.all.click)
