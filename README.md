@@ -70,6 +70,10 @@ GRPC
 ## [Nick Chapsas](https://dometrain.com/author/nick-chapsas/)
 - [From Beginner to Mastery: Minimal APIs in C# in NET](https://www.bilibili.com/video/BV1wS411P7VY/?spm_id_from=333.337.search-card.all.click)
 
+## Git & Github
+- [Udemy - The Git & Github Bootcamp part1](https://www.bilibili.com/video/BV1YM7qzWEqo/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
+  - [Part 2](https://www.bilibili.com/video/BV1y17izuEJc/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
+  
 ## Behavior-Driven Development
 - [Getting started with Behavior Driven Development (BDD) in .NET using SpecFlow](https://www.youtube.com/watch?v=EEeVU0z26u0)
   ### Specflow
