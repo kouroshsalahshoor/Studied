@@ -28,7 +28,7 @@ AI
 - [GenAI for .NET: Build LLM Apps with OpenAI and Ollama](https://sanet.st/video-courses/developer/5291366-genai-net-build-llm-apps-openai-ollama) | [github](https://github.com/mehmetozkaya/genai-for-dotnet)
 - [Agentic AI Architectures with Patterns, Frameworks and MCP](https://learningdl.net/agentic-ai-architectures-with-patterns-frameworks-and-mcp/)
 - [Udemy - .NET Aspire and GenAI for Developing Distributed Architectures](https://www.bilibili.com/video/BV1FotszbEpv/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
-- [Generative AI Architectures with LLM, Prompt, RAG, Vector DB | Udemy](https://learningdl.net/generative-ai-architectures-with-llm-prompt-rag-vector-db/)
+- [Generative AI Architectures with LLM, Prompt, RAG, Vector DB | Udemy](https://www.bilibili.com/video/BV1WiG76REAv/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 - [GenAI for .NET: Build LLM Apps with OpenAI and Ollama | Udemy](https://learningdl.net/genai-for-dotnet-build-llm-apps-with-openai-and-ollama/#more-870166)
 
 GRPC
