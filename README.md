@@ -42,7 +42,8 @@ GRPC
 ## [Neil Cummings](https://www.udemy.com/user/neil-cummings-2/)
 - [Build a complete distributed app using .Net Aspire](https://www.bilibili.com/video/BV1qYy1BYEMA?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893)
 - [Udemy - Complete Building an app with .Net Core and React Without Legacy](https://www.bilibili.com/video/BV1qAQ3YwEZc/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
-  - [part 2]() 
+  - [part 2](https://www.bilibili.com/video/BV1uoTNzNEma/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
+  - [part 3](https://www.bilibili.com/video/BV14ATKzcEMq/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 
 ## [Felipe Gavilan](https://www.udemy.com/user/felipegaviln/)
 - [Artificial Intelligence and Agents in .NET](https://www.bilibili.com/video/BV1Z1G46zENt?spm_id_from=333.788.player.switch&vd_source=396d99df17169e23716a53b0fa85b893&p=10)
@@ -54,9 +55,6 @@ GRPC
 - [Clean Architecture of ASP.NET Core](https://www.bilibili.com/video/BV1W4fJBkEsn/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 - [Udemy - Building Applications with React 19 and ASP.NET Core 9](https://www.bilibili.com/video/BV1pqGMzVEsv/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part 2](https://www.bilibili.com/video/BV1jSGMzNEx2/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
-- [Udemy - Complete Building an app with .Net Core and React Without Legacy](https://www.bilibili.com/video/BV1qAQ3YwEZc/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
-  - [part 2](https://www.bilibili.com/video/BV1uoTNzNEma/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
-  - [part 3](https://www.bilibili.com/video/BV14ATKzcEMq/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 
 ## [Jakub Kozera](https://www.udemy.com/user/jakub-kozera-2/?kw=Jakub+Kozera&src=sac)
 - [Udemy - ASP.NET Core 8 Web API Clean architecture + Azure services](https://www.bilibili.com/video/BV118iUY5EX4/?spm_id_from=333.337.search-card.all.click)
