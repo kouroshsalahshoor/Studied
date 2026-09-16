@@ -46,7 +46,8 @@ GRPC
 - [Udemy Programming in Blazor ASP.NET Core 3.1](https://p30download.ir/fa/entry/90990/udemy-programming-in-blazor-aspnet-core-31)
 - [Udemy - Learn Git, GitHub and GitHub Actions](https://www.bilibili.com/video/BV1MJkQYgExD/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part 2](https://www.bilibili.com/video/BV1MJkQYgE89/?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893)
-- [Udemy - Developing .NET Applications in Azure](https://www.bilibili.com/video/BV1shzeBqERA/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893) 
+- [Udemy - Developing .NET Applications in Azure](https://www.bilibili.com/video/BV1shzeBqERA/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
+- [Clean Architecture of ASP.NET Core](https://www.bilibili.com/video/BV1W4fJBkEsn/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 
 ## Laurentiu Dumitrescu
 - [.NET 9 Microservices, Modular Monolith: DDD & Vertical Slice](https://www.bilibili.com/video/BV1D8UEBsEjc/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
