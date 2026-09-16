@@ -48,6 +48,8 @@ GRPC
   - [part 2](https://www.bilibili.com/video/BV1MJkQYgE89/?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893)
 - [Udemy - Developing .NET Applications in Azure](https://www.bilibili.com/video/BV1shzeBqERA/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 - [Clean Architecture of ASP.NET Core](https://www.bilibili.com/video/BV1W4fJBkEsn/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
+- [Udemy - Building Applications with React 19 and ASP.NET Core 9](https://www.bilibili.com/video/BV1pqGMzVEsv/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
+  - [part 2](https://www.bilibili.com/video/BV1jSGMzNEx2/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 
 ## [Jakub Kozera](https://www.udemy.com/user/jakub-kozera-2/?kw=Jakub+Kozera&src=sac)
 - [Udemy - ASP.NET Core 8 Web API Clean architecture + Azure services](https://www.bilibili.com/video/BV118iUY5EX4/?spm_id_from=333.337.search-card.all.click)
