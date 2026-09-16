@@ -49,6 +49,10 @@ GRPC
 - [Udemy - Developing .NET Applications in Azure](https://www.bilibili.com/video/BV1shzeBqERA/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 - [Clean Architecture of ASP.NET Core](https://www.bilibili.com/video/BV1W4fJBkEsn/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 
+## [Jakub Kozera](https://www.udemy.com/user/jakub-kozera-2/?kw=Jakub+Kozera&src=sac)
+- [Udemy - ASP.NET Core 8 Web API Clean architecture + Azure services](https://www.bilibili.com/video/BV118iUY5EX4/?spm_id_from=333.337.search-card.all.click)
+  - [part 2](https://www.bilibili.com/video/BV1N8iUY5ESR/?spm_id_from=333.337.search-card.all.click)
+    
 ## Laurentiu Dumitrescu
 - [.NET 9 Microservices, Modular Monolith: DDD & Vertical Slice](https://www.bilibili.com/video/BV1D8UEBsEjc/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 
@@ -67,10 +71,6 @@ GRPC
 
 ## [Trevoir Williams](https://www.udemy.com/user/trevoirwilliams/?kw=trevor&src=sac)
 - [Udemy – Generative AI for .NET Developers with Azure AI Services](https://www.bilibili.com/video/BV1C5qdYhEd8/?spm_id_from=333.337.search-card.all.click)
-
-## [Jakub Kozera](https://www.udemy.com/user/jakub-kozera-2/?kw=Jakub+Kozera&src=sac)
-- [Udemy - ASP.NET Core 8 Web API Clean architecture + Azure services](https://www.bilibili.com/video/BV118iUY5EX4/?spm_id_from=333.337.search-card.all.click)
-  - [part 2](https://www.bilibili.com/video/BV1N8iUY5ESR/?spm_id_from=333.337.search-card.all.click)
 
 ## [Nick Chapsas](https://dometrain.com/author/nick-chapsas/)
 - [From Beginner to Mastery: Minimal APIs in C# in NET](https://www.bilibili.com/video/BV1wS411P7VY/?spm_id_from=333.337.search-card.all.click)
