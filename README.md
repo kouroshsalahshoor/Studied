@@ -36,7 +36,7 @@ GRPC
 
 - https://mehmetozkaya.medium.com/
 
-## Kevin Dockx
+## [Kevin Dockx](https://dometrain.com/author/kevin-dockx/) | [github](https://github.com/KevinDockx)
 - [Authentication and Authorization in ASP.NET Core Blazor](https://www.bilibili.com/video/BV1hHWfeTEr4/?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893)
 
 ## [Neil Cummings](https://www.udemy.com/user/neil-cummings-2/)
