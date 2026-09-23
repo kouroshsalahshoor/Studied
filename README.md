@@ -57,6 +57,8 @@ GRPC
 - [Udemy - Building Applications with React 19 and ASP.NET Core 9](https://www.bilibili.com/video/BV1pqGMzVEsv/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
   - [part 2](https://www.bilibili.com/video/BV1jSGMzNEx2/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 
+## [Erik Dahl](https://www.pluralsight.com/authors/erik-dahl)
+
 ## [Jakub Kozera](https://www.udemy.com/user/jakub-kozera-2/?kw=Jakub+Kozera&src=sac)
 - [Udemy - ASP.NET Core 8 Web API Clean architecture + Azure services](https://www.bilibili.com/video/BV118iUY5EX4/?spm_id_from=333.337.search-card.all.click)
   - [part 2](https://www.bilibili.com/video/BV1N8iUY5ESR/?spm_id_from=333.337.search-card.all.click)
