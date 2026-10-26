@@ -1,7 +1,7 @@
 # Studied
 A list of the best Material I found on the web
 
-##  [Mehmet Ozkaya](https://www.udemy.com/user/ff0e5c8c-dd71-443e-be0a-e73ba821f7d7/) | [github](https://github.com/mehmetozkaya)
+##  [Mehmet Ozkaya](https://www.udemy.com/courses/search/?q=mehmet+ozkaya&src=sac&kw=mehme&sort=newest) | [github](https://github.com/mehmetozkaya) |  [*](https://www.udemy.com/user/ff0e5c8c-dd71-443e-be0a-e73ba821f7d7/)
   
 - [Udemy - .NET 8 Microservices DDD, CQRS, VerticalClean Architecture](https://www.bilibili.com/video/BV1LUMVziEME?spm_id_from=333.788.videopod.episodes) | [github](https://github.com/mehmetozkaya/EShopMicroservices-Udemy-Sections) | [github](https://github.com/mehmetozkaya/EShopMicroservices)
   - [part2](https://www.bilibili.com/video/BV1h5MVzfEoQ?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893)
