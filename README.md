@@ -23,7 +23,8 @@ A list of the best Material I found on the web
 
 AI  
 
-- ⭐ [Udemy - Agentic Coding with GitHub Copilot: Skills, Agents and MCP](https://www.bilibili.com/video/BV1HF8K6aENh/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
+- [Agentic Coding with Claude Code: Spec-Driven Microservices](https://sanet.st/video-courses/developer/5825266-agentic-coding-claude-code-spec-driven-microservices)
+- [Udemy - Agentic Coding with GitHub Copilot: Skills, Agents and MCP](https://www.bilibili.com/video/BV1HF8K6aENh/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 - [Agent AI development using Agent Framework, MCP, and .NET](https://www.bilibili.com/video/BV1ZM5X6mEht/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 - [Agentic AI Architectures with Patterns, Frameworks and MCP](https://learningdl.net/agentic-ai-architectures-with-patterns-frameworks-and-mcp/)
 - [GenAI for .NET: Build LLM Apps with OpenAI and Ollama](https://sanet.st/video-courses/developer/5291366-genai-net-build-llm-apps-openai-ollama) | [github](https://github.com/mehmetozkaya/genai-for-dotnet)
